@@ -1,1 +1,17 @@
+/* Typography */
+h1, h2 {
+    font-family: 'Old Standard TT', serif;
+    font-size: 30px; 
+    color: brown;
+}
 
+p, a{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 15px; 
+    color: #0d0d0d;
+}
+
+/* Layout */
+
+
+/* Media */
