@@ -1,4 +1,10 @@
 /* Typography */
+body {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 15px; 
+    color: #0d0d0d;
+}
+
 h1, h2 {
     font-family: 'Old Standard TT', serif;
     font-size: 30px; 
